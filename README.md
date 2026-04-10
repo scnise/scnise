@@ -1,5 +1,5 @@
 ### Hi,my dear friends
-** Thanks for visiting my GitHub page! **
+**Thanks for visiting my GitHub page!**
 
 <!--
 **scnise/scnise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
