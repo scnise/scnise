@@ -1,6 +1,6 @@
 ### Hi,my dear friends
 **Thanks for visiting my GitHub page!**
-*Here I'll post some Telegram bots and you'll be able to use it*
+*Here I'll post some projects and you'll be able to use it*
 
 <!--
 **scnise/scnise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
